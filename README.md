@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Renan! 👋
 
-<!--
-**RnNasciment0/RnNasciment0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate Computer Science student, deeply interested in **Artificial Intelligence, Cybersecurity, and Web3**. I love working on projects that integrate **data science, security, and innovative technologies**.
 
-Here are some ideas to get you started:
+### 💻 What I Do
+- 🔭 Currently working on **data pipelines and AI-based security solutions**.
+- 🌱 Learning about **RISC-V architecture and cybersecurity applications**.
+- 👯 Looking to collaborate on **open-source projects related to AI and Web3**.
+- 🎙️ Hosting the **Byte de Conhecimento Podcast** to share knowledge on tech and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me
+- 📧 Email: renan_sn@id.uff.br
+- 💼 LinkedIn: [linkedin.com/in/seu-perfil](#)
+- 🌐 Website: [yourwebsite.com](#)
+
+### ⚡ Fun Fact
+I enjoy exploring **hardware-level optimizations**, setting up **self-hosted servers**, and playing around with **network security tools**!
+
+Let's connect and build something awesome! 🚀
