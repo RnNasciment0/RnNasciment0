@@ -42,4 +42,7 @@ Vamos trocar ideias? 🚀
   <a href="https://www.instagram.com/bytedeconhecimento__/?utm_source=ig_web_button_share_sheet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-  ![Snake animation](https://github.com/RnNasciment0/RnNasciment0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RnNasciment0/RnNasciment0/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RnNasciment0&repo=RnNasciment0&theme=react)](https://github.com/RnNasciment0/RnNasciment0)  
+  
