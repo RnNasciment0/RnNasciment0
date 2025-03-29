@@ -8,7 +8,6 @@ Tenho experiência com desenvolvimento web, arquitetura de computadores e análi
 
 Tenho trabalhado em diversos projetos que unem teoria e prática, buscando sempre inovação e aprendizado. Alguns dos projetos que estou colocando em prática incluem:
 
-- 🗑 **Lixeira Inteligente**: Um projeto do capítulo CS-EPS do ramo estudantil IEEE, utilizando IA para identificar o tipo de lixo e direcioná-lo ao cesto correto, combinando sensores e análise de imagem.
 - 🎙 **Podcast 'Byte de Conhecimento'**: Criando um espaço para compartilhar conhecimento sobre tecnologia e ciência da computação, complementado por uma página no Instagram.
 - 🏗 **Plataforma Open Source para Projetos Sociais**: Um sistema para conectar doadores com projetos sociais e missões, desenvolvido em parceria com a FaithTech.
 
