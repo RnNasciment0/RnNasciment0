@@ -10,6 +10,7 @@ Tenho trabalhado em diversos projetos que unem teoria e prática, buscando sempr
 
 - 🎙 **Podcast 'Byte de Conhecimento'**: Criando um espaço para compartilhar conhecimento sobre tecnologia e ciência da computação, complementado por uma página no Instagram.
 - 🏗 **Plataforma Open Source para Projetos Sociais**: Um sistema para conectar doadores com projetos sociais e missões, desenvolvido em parceria com a FaithTech.
+🧷 **Projeto ABSORTTECH**: Desenvolvimento de uma tecnologia inovadora focada em absorventes automatizados, visando proporcionar dignidade e discrição no acesso a produtos essenciais. Nosso projeto integra hardware e software para criar um sistema eficiente e de baixa manutenção, garantindo um suprimento contínuo e acessível. A Absortech busca aliar funcionalidade e design elegante, tornando a experiência do usuário simples e prática.
 
 Vamos trocar ideias? 🚀
 
