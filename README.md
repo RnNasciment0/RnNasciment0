@@ -2,7 +2,7 @@
 
 I'm a Computer Science student with a strong passion for technology! Currently, I'm responsible for maintaining the website of the IEEE UFF Computer Society student branch. I also develop projects focused on data science, artificial intelligence, and software development.
 
-I have experience in web development, computer architecture, and data analysis. At the moment, I'm deepening my knowledge in **data pipelines** and **machine learning**.
+I have experience in web development and data analysis. At the moment, I'm deepening my knowledge in **data pipelines** and **machine learning**.
 
 ---
 
